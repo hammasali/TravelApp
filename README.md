@@ -1,7 +1,9 @@
-# travel_app
+# Travelapp
 
 A new Flutter application.
+This is the two screens of the travel application. The design idea I have got is from the dribble. It took me 3 hours to build this whole project and implemented with hero navigation. I hope you like this design :)
 
+# Preview
 ![screen_11_30 ](https://user-images.githubusercontent.com/52609580/117599088-96368980-b162-11eb-92df-7dc6374c8d32.png)
 ![screen_21_1_30](https://user-images.githubusercontent.com/52609580/117599508-62a82f00-b163-11eb-9dc0-76d0698f3f83.png)
 
